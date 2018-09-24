@@ -1,0 +1,13 @@
+{
+  "name": "purrfect-match",
+  "version": "1.0.0",
+  "description": "kitty showcase website",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "William Chou",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^10.0.2"
+  }
+}
